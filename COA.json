@@ -1,0 +1,232 @@
+{
+  "id": 21500,
+  "batch_id": null,
+  "previous_standard": {
+    "id": 20926,
+    "created_at": "2021-07-02 16:28:34 UTC",
+    "compounds": {},
+    "result_type": "NATTY"
+  },
+  "previous_sample": {
+    "id": 21456
+  },
+  "user": {
+    "id": 135,
+    "name": "Enrique Orci"
+  },
+  "prep_method_id": null,
+  "prepared_samples": [
+    {
+      "label": "Yellow",
+      "errors": {},
+      "acquire": true,
+      "vial_type": "yellow_1ml",
+      "dilution_factor": "104"
+    },
+    {
+      "label": "Green",
+      "errors": {},
+      "acquire": true,
+      "vial_type": "green_1ml",
+      "dilution_factor": "4"
+    }
+  ],
+  "acq_type": "FULL",
+  "organization": {
+    "id": 2,
+    "name": "Ionization Labs",
+    "email": "clientservices@ionizationlabs.com",
+    "contact_no": "5122004505",
+    "logo": "https://cann-id-production.s3.us-west-2.amazonaws.com/1614881286.png",
+    "address": "3636 Dime Circle Suite A\nAustin, TX 78744"
+  },
+  "sample_type": {
+    "id": 28,
+    "name": "Topical",
+    "slug": "topical",
+    "analysis_method": "1_Run.M",
+    "required_injections": 2
+  },
+  "compounds": {
+    "THCV": {
+      "amount": 1.642,
+      "compound": "THCV",
+      "peak_area": 14.075,
+      "percent": 0.10864486575900241
+    },
+    "CBD": {
+      "amount": 4.6,
+      "compound": "CBD",
+      "peak_area": 43.977,
+      "percent": 0.30436442295457433
+    },
+    "CBDV": {
+      "amount": 2.162,
+      "compound": "CBDV",
+      "peak_area": 21.024,
+      "percent": 0.00550197226110192
+    },
+    "CBG": {
+      "amount": 2.886,
+      "compound": "CBG",
+      "peak_area": 26.493,
+      "percent": 0.007344445858251686
+    },
+    "THCD9": {
+      "amount": 5.251,
+      "compound": "THCD9",
+      "peak_area": 49.608,
+      "percent": 0.01336302328540527
+    },
+    "CBC": {
+      "amount": 3.404,
+      "compound": "CBC",
+      "peak_area": 82.142,
+      "percent": 0.008662679730245579
+    },
+    "THCA": {
+      "amount": 16.335,
+      "compound": "THCA",
+      "peak_area": 282.537,
+      "percent": 0.04157017432243288
+    },
+    "CBCA": {
+      "amount": 5.187,
+      "compound": "CBCA",
+      "peak_area": 54.6,
+      "percent": 0.013200152691182084
+    }
+  },
+  "result_type": "NATTY",
+  "tested_at": "2021-07-28 13:40:12 UTC",
+  "tested_by": {
+    "id": 135,
+    "name": "Enrique Orci"
+  },
+  "intake_form": {
+    "notes": "ILCTS1241-11 Green vial used",
+    "strain_name": "Shea Butter Balm",
+    "batch_number": "SBB-028",
+    "custom_fields": [],
+    "intake_number": "Cann.ID-07-28-21/31177-TechId",
+    "sample_weight": "157.18",
+    "acquisition_mode": "standard"
+  },
+  "results": [
+    {
+      "results": [
+        {
+          "amount": 1.642,
+          "compound": "THCV",
+          "peak_area": 14.075
+        },
+        {
+          "amount": 4.6,
+          "compound": "CBD",
+          "peak_area": 43.977
+        },
+        {
+          "amount": 0.136,
+          "compound": "THCD9",
+          "peak_area": 1.377
+        },
+        {
+          "amount": 0.353,
+          "compound": "CBC",
+          "peak_area": 2.953
+        },
+        {
+          "amount": 0.615,
+          "compound": "THCA",
+          "peak_area": 6.811
+        },
+        {
+          "amount": 0.463,
+          "compound": "CBCA",
+          "peak_area": 2.444
+        }
+      ],
+      "csDataName": "031-28-ILCTS1241-11-157.18mg Y.D",
+      "machineName": "LAPTOP-P71424D5",
+      "csDataFolder": "C:\\Users\\Public\\Documents\\ChemStation\\1\\DATA\\21_07_27_Run 2021-07-27 09-04-25"
+    },
+    {
+      "results": [
+        {
+          "amount": 2.162,
+          "compound": "CBDV",
+          "peak_area": 21.024
+        },
+        {
+          "amount": 1.523,
+          "compound": "THCV",
+          "peak_area": 12.895
+        },
+        {
+          "amount": 104.257,
+          "compound": "CBD",
+          "peak_area": 1076.288
+        },
+        {
+          "amount": 2.886,
+          "compound": "CBG",
+          "peak_area": 26.493
+        },
+        {
+          "amount": 5.251,
+          "compound": "THCD9",
+          "peak_area": 49.608
+        },
+        {
+          "amount": 0.754,
+          "compound": "THCD8",
+          "peak_area": 3.037
+        },
+        {
+          "amount": 3.404,
+          "compound": "CBC",
+          "peak_area": 82.142
+        },
+        {
+          "amount": 0.888,
+          "compound": "CBNA",
+          "peak_area": 9.359
+        },
+        {
+          "amount": 16.335,
+          "compound": "THCA",
+          "peak_area": 282.537
+        },
+        {
+          "amount": 5.187,
+          "compound": "CBCA",
+          "peak_area": 54.6
+        }
+      ],
+      "csDataName": "032-29-ILCTS1241-11-157.18mg G.D",
+      "machineName": "LAPTOP-P71424D5",
+      "csDataFolder": "C:\\Users\\Public\\Documents\\ChemStation\\1\\DATA\\21_07_27_Run 2021-07-27 09-04-25"
+    }
+  ],
+  "dominant_analyte": "CBD",
+  "share_key": "6CV7QE93D",
+  "latitude": null,
+  "longitude": null,
+  "created_at": "2021-07-28 13:40:12 UTC",
+  "updated_at": "2021-07-28 14:48:26 UTC",
+  "loq": 0.0025448530347372436,
+  "meta": {
+    "cannabinoids": {
+      "CBDV": "A43B9A",
+      "THCV": "7236A8",
+      "CBD": "5631A2",
+      "CBG": "8D38A5",
+      "THCD9": "DB5C68",
+      "THCD8": "E97158",
+      "CBC": "EF8748",
+      "CBNA": "F3A135",
+      "THCA": "F7BB33",
+      "CBCA": "FADA32"
+    }
+  }
+}
